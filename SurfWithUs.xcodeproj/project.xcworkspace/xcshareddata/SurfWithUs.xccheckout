@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A276E2B1-9F1E-43EF-8390-71798584D879</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SurfWithUs</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9D8CFABA-876C-4865-946C-ACCB19412657</key>
+		<string>ssh://github.com/yu1ch1/surfwithus.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SurfWithUs.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9D8CFABA-876C-4865-946C-ACCB19412657</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/yu1ch1/surfwithus.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9D8CFABA-876C-4865-946C-ACCB19412657</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9D8CFABA-876C-4865-946C-ACCB19412657</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SurfWithUs</string>
+		</dict>
+	</array>
+</dict>
+</plist>

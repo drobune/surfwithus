@@ -22,6 +22,7 @@
 		B12C4E881859A24800CD5AF7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B12C4E671859A24800CD5AF7 /* UIKit.framework */; };
 		B12C4E901859A24800CD5AF7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B12C4E8E1859A24800CD5AF7 /* InfoPlist.strings */; };
 		B12C4E921859A24800CD5AF7 /* SurfWithUsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B12C4E911859A24800CD5AF7 /* SurfWithUsTests.m */; };
+		B12C4E9C1859BBB500CD5AF7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B12C4E7E1859A24800CD5AF7 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -243,6 +244,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B12C4E901859A24800CD5AF7 /* InfoPlist.strings in Resources */,
+				B12C4E9C1859BBB500CD5AF7 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -395,6 +397,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SurfWithUs/SurfWithUs-Prefix.pch";
 				INFOPLIST_FILE = "SurfWithUs/SurfWithUs-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -408,6 +411,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SurfWithUs/SurfWithUs-Prefix.pch";
 				INFOPLIST_FILE = "SurfWithUs/SurfWithUs-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
